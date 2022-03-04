@@ -1,6 +1,12 @@
 ### Hi there, I'm Tobias Lindberg 👋
-*Senior Consultant at [IP-Solutions AB](https://ip-solutions.se)*  
-*Developer of [TibiaData](https://tibiadata.com) and [TeslaMateApi](https://github.com/tobiasehlert/teslamateapi)*
+
+Workings as a Senior Consultant at [IP-Solutions AB](https://ip-solutions.se).
+
+Developer / maintainer of projects:
+-  TibiaData ([www](https://tibiadata.com) | [repo](https://github.com/TibiaData))
+-  TeslaMateApi ([repo](https://github.com/tobiasehlert/teslamateapi))
+
+Find out more on my [tobiasehlert.github.io](https://tobiasehlert.github.io) page.
 
 ---
 
