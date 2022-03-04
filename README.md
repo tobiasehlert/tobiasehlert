@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Tobias Lindberg 👋
+*Senior Consultant at [IP-Solutions AB](https://ip-solutions.se)*  
+*Developer of [TibiaData](https://tibiadata.com) and [TeslaMateApi](https://github.com/tobiasehlert/teslamateapi)*
+
+---
+
+[![tobiasehlert's GitHub profile stats](https://github-readme-stats.vercel.app/api?username=tobiasehlert&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/tobiasehlert)
+
+[![tobiasehlert's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasehlert&langs_count=8&layout=compact&card_width=445)](https://github.com/tobiasehlert)
 
 <!--
 **tobiasehlert/tobiasehlert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
