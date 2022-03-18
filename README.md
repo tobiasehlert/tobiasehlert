@@ -8,12 +8,6 @@ Developer / maintainer of projects:
 
 Find out more on my [tobiasehlert.github.io](https://tobiasehlert.github.io) page.
 
----
-
-[![tobiasehlert's GitHub profile stats](https://github-readme-stats.vercel.app/api?username=tobiasehlert&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/tobiasehlert)
-
-[![tobiasehlert's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasehlert&langs_count=8&layout=compact&card_width=445)](https://github.com/tobiasehlert)
-
 <!--
 **tobiasehlert/tobiasehlert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
